@@ -1,0 +1,43 @@
+
+h1{
+  font-family: 'Satisfy', cursive;
+  color: rgb(0,0,255);
+}
+
+h2 {
+  font-family: 'Fredericka the Great', cursive;
+  color: rgba(0,0,255,0.8);
+}
+
+h3{
+  font-family: 'Fredericka the Great', cursive;
+  background-color:rgba(0,255,255,0.2);
+}
+
+h6{
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 15px;
+  margin: 10px;
+  float: left;
+}
+main h1{
+  text-align: center;
+}
+
+li{
+  display: inline;
+  padding: 1%;
+}
+
+.searchbox{
+  text-align: right;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin: 1%;
+  padding: 1%;
+}
+
+/* Search box position */
+#Searchbox{
+  float: right;
+}

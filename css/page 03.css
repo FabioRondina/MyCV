@@ -1,0 +1,48 @@
+/* START RULE FOR PAGE 03 */
+
+#skillTopLeft {
+  text-align: center;
+  margin: 1%;
+}
+#skillTopcenter{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 120px;
+  font-family: 'Satisfy', cursive;
+}
+#skillTopRight{
+  text-align: center;
+  margin: 1%;
+}
+
+#skillMiddleLeft{
+  text-align: center;
+    margin: 1%;
+}
+
+#skillMiddleRight{
+  text-align: center;
+  margin: 1%;
+}
+
+#skillBottomLeft {
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
+}
+
+#skillBottomCenter{
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
+  margin-top: 90px;
+}
+
+#skillBottomRight{
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
+}
+
+
+/* END RULES FOR PAGE 03 */

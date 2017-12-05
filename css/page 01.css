@@ -1,0 +1,45 @@
+/*<!--- start rule for sections of page 1 --->*/
+#mainsection1{
+  background-color: rgba(0,255,255,0.2);
+  widht 45%;
+  padding: 1%;
+  height: 140px;
+  margin-right: 40%;
+  text-align: center;
+}
+#mainsection2{
+  background-color: rgba(102,255,102,0.2);
+  widht 45%;
+  height: 140px;
+  padding: 1%;
+  display: flow-root;
+  margin-left: 30%;
+  margin-right: 10%;
+  text-align: center;
+}
+#mainsection3{
+  background-color: rgba(0,255,255,0.2);
+  widht 45%;
+  height: 140px;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+}
+#mainsection4{
+  background-color: rgba(102,255,102,0.2);
+  height: 140px;
+  width: 45%;
+  padding: 1%;
+  margin-left: 30%;
+  text-align: center;
+
+}
+
+
+}
+#lisec{
+  font-size: 60px;
+  margin-top: 20px;
+
+}
+/*<!--- end rule for sections of page 1 --->*/

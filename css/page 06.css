@@ -1,0 +1,28 @@
+/* START PAGE 06 RULES */
+#formpos{
+      margin-top: 161px;
+}
+
+#formtext{
+  text-align: left;
+  background-color:rgba(0,255,255,0.2);
+  font-size: 25px;
+}
+
+#spacer{
+  margin-top: 30px;
+}
+
+legend{
+  /*color: rgb(0,255,0);*/
+  background-color:rgba(0,255,255,0.2);
+  /*font-family: 'Nothing You Could Do', cursive;*/
+  font-size: 25px;
+}
+
+label{
+  /*color: rgb(0,255,0);*/
+  background-color: rgba(0,255,255,0.2);
+  /*font-family: 'Nothing You Could Do', cursive;*/
+  font-size: 20px;
+}

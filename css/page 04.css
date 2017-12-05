@@ -1,0 +1,21 @@
+/* START RULES FOR PAGE 04 */
+
+#leftSect{
+  float: left;
+  width: 45%;
+  height: 390px;
+  padding : 1%;
+  margin : 1%;
+  border-right-style: solid;
+}
+#rightSect{
+  float: right;
+  width: 45%;
+  height: 390px;
+  padding: 1%;
+  margin: 1%;
+}
+
+#div4{
+  margin-top: 200px;
+}

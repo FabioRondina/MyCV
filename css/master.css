@@ -1,0 +1,46 @@
+@import "ancor.css";
+@import "headers.css";
+@import "footer.css";
+@import "page 01.css";
+@import "page 02.css";
+@import "page 03.css";
+@import "page 04.css";
+@import "page 06.css";
+
+
+body {
+  background: url("../img/background.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+main p{
+  background-color: rgba(0,255,200,0.3);
+}
+
+.image {
+  width: 100%;
+}
+
+/*Miscellaneous*/
+
+
+/*entering page link*/
+#enter{
+  font-family: 'Nothing You Could Do', cursive;
+
+
+  /*diveder page 02*/
+  #div2{
+    margin-top: 100px;
+  }
+
+  /* added from the professor to solve problem of "bleeding of the colour of the page "*/
+  .clearfix {
+    content: "";
+    display: table;
+    clear: both;
+  }

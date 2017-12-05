@@ -1,0 +1,25 @@
+/* START OF COMMON FOOTER RULES*/
+
+footer{
+  position: fixed;
+  bottom: 5px;
+  align-items: center;
+  border: 0px;
+}
+
+
+footer h6{
+  background-color: rgba(0, 255, 0, 0.4);
+  padding: 1%;
+}
+
+/* link of social media of the footer */
+.linksocial{
+  display:inline;
+}
+/* link of social media of the footer */
+
+.linksocial2{
+  display:inline;
+  background-color: rgba(0, 255, 0, 0.4);
+}
