@@ -38,6 +38,11 @@ main p{
     margin-top: 100px;
   }
 
+  /*spacer*/
+  #spacer{
+    margin-top: 30px;
+  }
+
   /* added from the professor to solve problem of "bleeding of the colour of the page "*/
   .clearfix {
     content: "";
