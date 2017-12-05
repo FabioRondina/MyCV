@@ -1,6 +1,7 @@
 /*<!--- start rule for sections of page 1 --->*/
 #mainsection1{
   background-color: rgba(0,255,255,0.2);
+  font-size: 60px;
   widht 45%;
   padding: 1%;
   height: 140px;
@@ -9,6 +10,7 @@
 }
 #mainsection2{
   background-color: rgba(102,255,102,0.2);
+  font-size: 60px;
   widht 45%;
   height: 140px;
   padding: 1%;
@@ -19,6 +21,7 @@
 }
 #mainsection3{
   background-color: rgba(0,255,255,0.2);
+  font-size: 60px;
   widht 45%;
   height: 140px;
   padding: 1%;
@@ -27,6 +30,7 @@
 }
 #mainsection4{
   background-color: rgba(102,255,102,0.2);
+  font-size: 60px;
   height: 140px;
   width: 45%;
   padding: 1%;
@@ -35,11 +39,4 @@
 
 }
 
-
-}
-#lisec{
-  font-size: 60px;
-  margin-top: 20px;
-
-}
 /*<!--- end rule for sections of page 1 --->*/
