@@ -20,6 +20,6 @@ footer h6{
 /* link of social media of the footer */
 
 #linksocial2{
-  /*display:inline;*/
+  display:inline;
   background-color: rgba(0, 255, 0, 0.4);
 }
