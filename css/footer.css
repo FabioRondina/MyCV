@@ -10,7 +10,7 @@ footer{
 
 footer h6{
   background-color: rgba(0, 255, 0, 0.4);
-  padding: 1%;
+  /* padding: 1%; */
 }
 
 /* link of social media of the footer */
@@ -22,4 +22,7 @@ footer h6{
 #linksocial2{
   display:inline;
   background-color: rgba(0, 255, 0, 0.4);
+  float: right;
+  /*margin-bottom: 5%;*/
+  /*margin-left: 5%;*/
 }
